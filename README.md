@@ -1,0 +1,2 @@
+# credit-card-Fraud-Detection-Model-using-FastAPI-docker-
+Built a machine learning model to detect fraudulent credit card transactions using data preprocessing, feature engineering, and SMOTE-based class imbalance handling. Integrated the model with FastAPI for real-time inference, containerized application using Docker for scalable deployment,evaluated performance precision, recall, and ROC-AUC metrics.
